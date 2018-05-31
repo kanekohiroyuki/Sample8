@@ -1,0 +1,11 @@
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\bin\Debug\netcoreapp2.0\Sample8.deps.json
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\bin\Debug\netcoreapp2.0\Sample8.runtimeconfig.json
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\bin\Debug\netcoreapp2.0\Sample8.runtimeconfig.dev.json
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\bin\Debug\netcoreapp2.0\Sample8.dll
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\bin\Debug\netcoreapp2.0\Sample8.pdb
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\obj\Debug\netcoreapp2.0\Sample8.csprojAssemblyReference.cache
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\obj\Debug\netcoreapp2.0\Sample8.csproj.CoreCompileInputs.cache
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\obj\Debug\netcoreapp2.0\Sample8.AssemblyInfoInputs.cache
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\obj\Debug\netcoreapp2.0\Sample8.AssemblyInfo.cs
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\obj\Debug\netcoreapp2.0\Sample8.dll
+C:\Users\hlcwork\TypeScriptSample\Sample8\Sample8\obj\Debug\netcoreapp2.0\Sample8.pdb
